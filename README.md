@@ -56,6 +56,13 @@ Population_per_household
 
 These ratios captured more meaningful relationships than raw totals.  
 
+**5. Visualized Reports**  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+
 **5. Modeling Approach**
 - Train-Test Split  
 Dataset split into:  
