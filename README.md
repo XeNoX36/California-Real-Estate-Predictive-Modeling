@@ -107,9 +107,10 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)  
 R² Score  
 
-**Key Findings and Insights**
+**Key Findings and Insights**  
 A. Strongest Drivers of Home Value  
 Median income is the most significant predictor — higher-income communities have significantly higher home values.  
+
 Latitude and longitude emphasize the coastal pricing premium.  
 
 Rooms per household positively influences housing prices, reflecting larger and more desirable properties.  
@@ -126,7 +127,7 @@ Areas with extremely high population density showed diminished house values, poi
 
 **Recommendations & Business Impact**  
 - The model provides a data-driven pricing strategy for real estate developers.
-- 
+
 - Government agencies can use insights for urban planning and housing affordability policies.  
 
 - Real estate firms gain a predictive tool to estimate housing prices and optimize investments.  
