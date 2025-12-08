@@ -109,6 +109,7 @@ R² Score
 
 **Key Findings and Insights**  
 A. Strongest Drivers of Home Value  
+
 Median income is the most significant predictor — higher-income communities have significantly higher home values.  
 
 Latitude and longitude emphasize the coastal pricing premium.  
